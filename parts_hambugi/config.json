@@ -89,7 +89,7 @@
   "track": "#f6e7cf",
   "text": "#54402a",
   "sub": "#a18a6b",
-  "deco": "sprout",
+  "deco": "burger",
   "panel": "#fdf9f2",
   "soft": "#f7edda",
   "line": "#eadfc8"
@@ -244,5 +244,46 @@
  "back_amp": 0.3,
  "back_period": 0.7,
  "back_jitter": 0.4,
- "back_hide_on_prop": true
+ "back_hide_on_prop": true,
+ "slime": {
+  "kinds": {
+   "말랑이": {
+    "tint": 0.45,
+    "size": 1.0,
+    "thick": 0.0,
+    "stiff": 0.0,
+    "reach": 2.8,
+    "vol": 0.32
+   },
+   "버터바": {
+    "shape": "bar",
+    "label": "butter",
+    "bar_w": 1.5,
+    "bar_h": 1.25,
+    "bar_edge": 6.0,
+    "tint": 0.52,
+    "shade": 0.0,
+    "size": 1.0,
+    "thick": 1.0,
+    "stiff": 0.6,
+    "reach": 2.0,
+    "vol": 1.0,
+    "pitch": 0.82
+   },
+   "치즈": {
+    "shape": "bar",
+    "label": "cheese",
+    "holes": 7,
+    "bar_w": 0.95,
+    "bar_h": 1.45,
+    "bar_edge": 4.0,
+    "color": "#f5e09a",
+    "size": 0.95,
+    "thick": 0.55,
+    "stiff": 0.3,
+    "vol": 1.0
+   }
+  }
+ },
+ "reset_menu": false
 }
