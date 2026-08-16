@@ -241,9 +241,9 @@
  "typing_arm": true,
  "card_top": 26,
  "back_motion": "sway",
- "back_amp": 0.3,
- "back_period": 0.7,
- "back_jitter": 0.4,
+ "back_amp": 16,
+ "back_period": 0.9,
+ "back_jitter": 0.35,
  "back_hide_on_prop": true,
  "slime": {
   "kinds": {
@@ -286,5 +286,9 @@
   }
  },
  "reset_menu": false,
- "char_lift": 65
+ "char_lift": 65,
+ "back_pivot": [
+  0.08,
+  0.82
+ ]
 }
