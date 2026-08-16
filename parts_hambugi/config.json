@@ -285,5 +285,6 @@
    }
   }
  },
- "reset_menu": false
+ "reset_menu": false,
+ "char_lift": 65
 }
