@@ -1,5 +1,5 @@
 {
- "version": 1787060624,
+ "version": 1787060957,
  "files": {
   "mascot.py": "de855ae3cdd90d359c4c4129cb7e6b801a816af1281703e234ebd58c6dabfa33",
   "parts_hambugi/arm_key.png": "1070f885f5fb3352e7099cfd22b0b256a880f3829b4899c3e080857e03af1c3d",
@@ -12,6 +12,7 @@
   "parts_hambugi/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_hambugi/desk.png": "500c1d0200e90c92411e17c87e40a47e3900754264dbf04fd6cb1b1f00845e29",
   "parts_hambugi/eyes_closed.png": "7edcb3ad86a6fda7a17a254556d114fa7efed3bc3fe113fb71417d125ee4480f",
+  "parts_hambugi/hand.png": "14fcba700a6266576b2d5a5e8d6aa308f53ff0d00008e93ee51526d08eec067f",
   "parts_hambugi/hat.png": "4bd1da80b760cff3694c7b21350e8dce6a177026846dcd737d796ad7560f277f",
   "parts_hambugi/head.png": "c6f99219454a3f64fc28d4df013034f8ecbe1441ddb53b7f775feeebbdd312cb",
   "parts_hambugi/layout.json": "85bd34802026907890651f3e70761d45ac72c2dbcb38bc807024d01470a8e152",
