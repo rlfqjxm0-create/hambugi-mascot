@@ -1,14 +1,14 @@
 {
- "version": 1787171451,
+ "version": 1787172441,
  "files": {
-  "mascot.py": "248ca93288f5ca1bd90eaaef919eed951f88fde618921f9aae399491d781ee1d",
+  "mascot.py": "94e1037ddfa9b3f9c701ecb081481074e961e5436bb354d3ecba1d29fb9793fe",
   "parts_hambugi/arm_key.png": "1070f885f5fb3352e7099cfd22b0b256a880f3829b4899c3e080857e03af1c3d",
   "parts_hambugi/arm_pen.png": "98dcdfe873354a36722912701bbb2d5c51f31f980c8025e4d6be87be3fd4f849",
   "parts_hambugi/arm_right.png": "dc70a0f6a1b5632e28147c0dd19b8c20ecf45afb46988659067578ae4b45f358",
   "parts_hambugi/arm_right_typing.png": "4ba7a6668161c514f7e6f2eab3edc4c1092fd6ce0252ec74e58264eb5b80e271",
   "parts_hambugi/back.png": "2069b5564ba48bb8d4c76b5aec8fe13d3ca6f96e447146e39d589e2d2cbf2fab",
   "parts_hambugi/body_open.png": "ef783a309c8673245229232d183a3a7d988b1e8f2908687a3e69b31a817638f2",
-  "parts_hambugi/config.json": "74c59e3c2965e9af5638eebd5a3fc80a6984b63f63d7a1f903af5baa132cf9c6",
+  "parts_hambugi/config.json": "00ef6e3bae1bb45f24efb0e5b09c19780ff0247fe170d610e3eae9afb1d54647",
   "parts_hambugi/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_hambugi/desk.png": "500c1d0200e90c92411e17c87e40a47e3900754264dbf04fd6cb1b1f00845e29",
   "parts_hambugi/eyes_closed.png": "7edcb3ad86a6fda7a17a254556d114fa7efed3bc3fe113fb71417d125ee4480f",
