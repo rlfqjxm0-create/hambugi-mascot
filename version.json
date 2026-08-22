@@ -1,14 +1,14 @@
 {
- "version": 1787397686,
+ "version": 1787399470,
  "files": {
-  "mascot.py": "5a6d164754a52bca37572f7c31cbb5e668fe6224ea6641494cbf0eac7733ef1b",
+  "mascot.py": "0464d63edf9f4e51430ddf5e15fa40c86c47b07d00c63320445cf54575fbb2af",
   "parts_hambugi/arm_key.png": "1070f885f5fb3352e7099cfd22b0b256a880f3829b4899c3e080857e03af1c3d",
   "parts_hambugi/arm_pen.png": "98dcdfe873354a36722912701bbb2d5c51f31f980c8025e4d6be87be3fd4f849",
   "parts_hambugi/arm_right.png": "dc70a0f6a1b5632e28147c0dd19b8c20ecf45afb46988659067578ae4b45f358",
   "parts_hambugi/arm_right_typing.png": "4ba7a6668161c514f7e6f2eab3edc4c1092fd6ce0252ec74e58264eb5b80e271",
   "parts_hambugi/back.png": "2069b5564ba48bb8d4c76b5aec8fe13d3ca6f96e447146e39d589e2d2cbf2fab",
   "parts_hambugi/body_open.png": "ef783a309c8673245229232d183a3a7d988b1e8f2908687a3e69b31a817638f2",
-  "parts_hambugi/config.json": "84c5aafb81b2c7db9e2afc65c5af8addc0c16496514417b9b656fb3f26d60287",
+  "parts_hambugi/config.json": "58b2da53f4ab4b47d76cb43e446393a68729613a48fc4e9288ead3fabfab0569",
   "parts_hambugi/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_hambugi/desk.png": "d6c6a40f1f2d32c32805ead1085fbf20c0b83deede2ddd0a884571119310f31b",
   "parts_hambugi/eyes_closed.png": "7edcb3ad86a6fda7a17a254556d114fa7efed3bc3fe113fb71417d125ee4480f",
@@ -478,8 +478,9 @@
   "youtube_player.py": "8fd216056f4f61075a8646a791389b05ad0082c40864d84b16773c2302c74f2d"
  },
  "notes": [
-  "**사가님이 소품 7종을 추가해 줬어요!** 미쿠 · 생선 · 계란 · 블록슈 불꽃 · 츠나 불꽃 · 당근토끼 · 방울고양이. 다들 사가님께 감사의 채찍질을 해주세요.",
-  "**미쿠와 불꽃은 여러 조각이 따로 움직입니다.** 미쿠는 양갈래가 흔들리고 파를 든 손이 신나게 움직여요. 불꽃은 밑동을 붙박이로 두고, 겹쳐 놓은 안쪽 불꽃마다 박자를 어긋내 타오르듯 넘실거립니다",
-  "소품은 켤 때마다 하나가 무작위로 나옵니다. 켜 둔 채로 바꾸고 싶으면 **우클릭 → 소품 새로고침**을 누르세요"
+  "**캐릭터 움직임이 부드러워졌습니다.** 커서를 캐릭터 곁에 두거나 말풍선·연출이 떠 있는 동안에는 초당 60번 그려요 (전에는 30번). 숨쉬기·눈동자·팔이 눈에 띄게 매끄럽습니다",
+  "**가만히 바라볼 때 끊기던 것을 고쳤습니다.** 키보드·마우스를 5초만 안 건드려도 초당 15번으로 떨어졌는데, 구경하는 순간이 딱 그 상태였어요. 이제 30초는 지나야 낮춥니다",
+  "**양갈래·날개 흔들림이 두 배 촘촘해졌습니다** (사가·기뽀·패왕·햄북이·락스·제리·성실이). 락스는 초당 5장이 10장으로 늘었어요",
+  "**늘 빠르게 그리지는 않습니다.** 보고 있지 않을 때는 예전처럼 그려서 컴퓨터에 부담을 안 줘요. 늘어나는 메모리는 캐릭터당 1MB 안쪽입니다"
  ]
 }
