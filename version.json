@@ -1,7 +1,7 @@
 {
- "version": 1787705628,
+ "version": 1787709859,
  "files": {
-  "mascot.py": "89c7c27e06dcc3d628d5f52eae9249b85e8599e8fd5ed1583c65a0d18ceefddb",
+  "mascot.py": "018be95a9e3a5d7bb3d8bd20d600d438dc46a9ad7d7710fb8a518fa457c6946c",
   "parts_hambugi/arm_key.png": "6dec5949239fc9d10190738118e584c5ab7a896ce2cb4208f66d9be4737d49a1",
   "parts_hambugi/arm_pen.png": "8410d373cb2b22402912708f1ccaeead522f07b4cbb8102e7284500844ec058f",
   "parts_hambugi/arm_right.png": "750ceefdd599ec4b9ae1ba967d814dad3bf262caec55f878742dbe90d4c36f93",
