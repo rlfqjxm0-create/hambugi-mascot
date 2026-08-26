@@ -1,5 +1,5 @@
 {
- "version": 1787732096,
+ "version": 1787732588,
  "files": {
   "mascot.py": "8e674e9daee1a60d2c017869dbb913f51c16220ebd4cb1eba3b6a691b4c98d60",
   "parts_hambugi/arm_key.png": "8df778dd54b6fbd94d7bba15359ee053e59e450c22931cfe25e9a70bec34853d",
@@ -14,8 +14,8 @@
   "parts_hambugi/chip_meta.json": "19d1e6c8695852c7445dbb541df4050fb3d0ca7eb0fcbfb71f30cd96c3c757d2",
   "parts_hambugi/chip_movie.png": "43bfa1493af45a8adc05b455acda466b56cad4394229cd8a706ae5cde09ed642",
   "parts_hambugi/chip_spoon.png": "9c1f69af5de27a78fcff161bc8cacbe21aa3ce8cc5b8ea8294517ae23925f08f",
-  "parts_hambugi/config.json": "6964281f5e6209a4dd3ffcffb950e0e04e73c3b0470a9031d01a0336fa563ab8",
-  "parts_hambugi/config.json.bak": "6964281f5e6209a4dd3ffcffb950e0e04e73c3b0470a9031d01a0336fa563ab8",
+  "parts_hambugi/config.json": "6fb08d14dd4d77a505fc1f1744af44a7633804ac2ee344fb8c6e5aae21db07d1",
+  "parts_hambugi/config.json.bak": "6fb08d14dd4d77a505fc1f1744af44a7633804ac2ee344fb8c6e5aae21db07d1",
   "parts_hambugi/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_hambugi/desk.png": "cd1708dd41eca6678f90856a88fff7912bfd00df679f3784e35a48b8e0e3ac51",
   "parts_hambugi/eyes_closed.png": "6a1a4f40aee9a9b5f4332380f14afcfacbdfbaa0c73afe1b50d6891b2b7db78e",
@@ -72,10 +72,6 @@
   "parts_hambugi/propx1_bit2.png": "81cf67eb121c60bfd7b52e0e270f480cb0aa0b3540a1f8a874194a96117c8f45",
   "parts_hambugi/propx1_bit3.png": "fcdd5262fb6588571ecfa6100d732d5d0be55683b3ef890b9ce2941c553e243a",
   "parts_hambugi/propx1_bit4.png": "c988c0f585189ede308b55455d3444ee83931afa8c7c12e1deb9af49a0a4c430",
-  "parts_hambugi/propx2.png": "d6281e877f24a47caba34678d89b124b04c6b86ca774c2f487bbe34392dd1a49",
-  "parts_hambugi/propx2_bit2.png": "3e79c0d59eb294a280590c01702130be6bcce34385f99625e54404ad11819ffa",
-  "parts_hambugi/propx2_bit3.png": "07458a652891c07ddd1fe8a193eb1cdbcca438979aa9d601dddd29c8023b1192",
-  "parts_hambugi/propx2_bit4.png": "fcec67dc8046fbd6b0f05ce04a9c670fec2ca39f2c78983820c7e29df10b733f",
   "parts_hambugi/pupils.png": "6fa466e21df6bf014ed03517399a711777f572b1f0be6a561b947790cda9f634",
   "parts_hambugi/seat.png": "73834a59eb731175d15e0b106e18714455e38566705d1fc482ed440f47d8d7ff",
   "parts_hambugi/seat_idle.png": "813233ace202c67a4f3690560c76a313776848da6c17b9a757d6757e72d44ca3",
@@ -519,7 +515,7 @@
  "notes": [
   "새 소품 4종이 왔어요 — 잠자는 고양이, 김이 폴폴 나는 왕만두, 아기 쪽쪽이, 토끼 머리띠. '소품 새로고침'을 누르다 보면 만날 수 있어요.",
   "하독의 반려동물 고양이 비비도 있어요! 발과 꼬리를 살랑이는 비비를 클릭하거나 몸을 쓰다듬어 보세요.",
-  "개의 반려동물 고양이 덤보도 왔어요! 꼬리를 살랑이는 덤보를 클릭하면 야옹, 몸을 쓰다듬으면 고롱고롱 하며 눈을 감아요.",
+  "개의 반려동물 고양이 덤보도 왔어요! 머리 위에 앉은 덤보를 클릭하면 야옹, 몸을 쓰다듬으면 고롱고롱 하며 눈을 감아요.",
   "고양이 울음소리가 여러 가지로 늘었어요. 고롱고롱은 쓰다듬는 동안 계속 나고, 손을 멈추면 그쳐요.",
   "모두의 플레이리스트에서 퍼오기가 막혀 건너뛰던 곡도 이제 재생돼요. 유튜브 프리미엄을 쓰신다면 음악 메뉴에서 한 번 로그인해 두면 광고 없이 나와요."
  ]
